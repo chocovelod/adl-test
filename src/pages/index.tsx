@@ -4,7 +4,7 @@ const Page = () => {
       <div className="bg-white p-4 rounded cursor-pointer grid grid-cols-grid-auto gap-x-5 md:gap-x-4 xl:gap-x-4 [&:hover_img]:scale-110 transition-transform ease-in">
         <div className="row-start-1 row-end-5 h-48 w-48 xl:h-40 xl:w-40 md:w-[72px] md:h-[72px] overflow-hidden rounded md:row-start-2 md:col-start-1 md:col-end-2">
           <img
-            src="/images/cat.jpeg"
+            src="./images/cat.jpeg"
             alt=""
             className=" h-48 xl:h-40 md:h-full rounded object-cover object-center transition-transform ease-in"
           />
